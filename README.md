@@ -8,8 +8,8 @@ A tool to help a student pick out a set of classes that fit together
 in a schedule that does not have any conflicts.
 
 The main source files for this project are:
-resources/public/index.html
-src/class_pick/core.cljs
+* resources/public/index.html
+* src/class_pick/core.cljs
 
 ## Setup
 
