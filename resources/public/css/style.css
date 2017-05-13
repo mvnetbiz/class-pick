@@ -1,0 +1,12 @@
+/* Give tables borders */
+table, th, td {
+  border: 1px solid black;
+}
+
+.conflicts {
+  background-color: silver;
+}
+
+.picked {
+  background-color: lightgreen;
+}
